@@ -1,4 +1,4 @@
-# Quantum Reservoir Computing Website
+# QRC Learning Platform
 
 Interactive website for learning Quantum Reservoir Computing from fundamentals to implementation, with embedded flashcards and a dedicated spaced-repetition review hub.
 
