@@ -6,7 +6,7 @@ export const siteConfig = {
   shortName: 'Quantum Reservoir',
   description:
     'An explorable introduction to quantum reservoir computing, with a five-part reading path and spaced-repetition review.',
-  url: 'https://eybmits.github.io/qrc-website',
+  url: 'https://eybmits.github.io/qrc-learning-platform',
 } as const;
 
 type PageKind = 'home' | 'essay' | 'review';

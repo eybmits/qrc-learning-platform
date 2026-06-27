@@ -184,7 +184,7 @@ export function SocialImage(): ReactElement {
             fontWeight: 700,
           }}
         >
-          eybmits.github.io/qrc-website
+          eybmits.github.io/qrc-learning-platform
         </div>
       </div>
     </div>

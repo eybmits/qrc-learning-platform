@@ -8,7 +8,7 @@ The site combines:
 - in-context review cards inside essays,
 - a central Review Hub with spaced repetition.
 
-Main deployment target: GitHub Pages at `https://eybmits.github.io/qrc-website/`.
+Main deployment target: GitHub Pages at `https://eybmits.github.io/qrc-learning-platform/`.
 
 ## Tech Stack
 - Framework: Next.js 14 (App Router)

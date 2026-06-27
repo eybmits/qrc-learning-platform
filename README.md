@@ -3,7 +3,7 @@
 Interactive website for learning Quantum Reservoir Computing from fundamentals to implementation, with embedded flashcards and a dedicated spaced-repetition review hub.
 
 Live site:
-- `https://eybmits.github.io/qrc-website/`
+- `https://eybmits.github.io/qrc-learning-platform/`
 
 ## Features
 - Five-part QRC learning path across long-form essays
